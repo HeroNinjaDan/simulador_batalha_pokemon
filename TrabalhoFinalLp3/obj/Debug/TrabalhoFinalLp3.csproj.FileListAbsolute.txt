@@ -1,0 +1,55 @@
+C:\Users\Daniel Fernandes\source\repos\TrabalhoFinalLp3\TrabalhoFinalLp3\bin\Debug\TrabalhoFinalLp3.exe.config
+C:\Users\Daniel Fernandes\source\repos\TrabalhoFinalLp3\TrabalhoFinalLp3\bin\Debug\TrabalhoFinalLp3.exe
+C:\Users\Daniel Fernandes\source\repos\TrabalhoFinalLp3\TrabalhoFinalLp3\bin\Debug\TrabalhoFinalLp3.pdb
+C:\Users\Daniel Fernandes\source\repos\TrabalhoFinalLp3\TrabalhoFinalLp3\obj\Debug\TrabalhoFinalLp3.csprojAssemblyReference.cache
+C:\Users\Daniel Fernandes\source\repos\TrabalhoFinalLp3\TrabalhoFinalLp3\obj\Debug\TrabalhoFinalLp3.Form1.resources
+C:\Users\Daniel Fernandes\source\repos\TrabalhoFinalLp3\TrabalhoFinalLp3\obj\Debug\TrabalhoFinalLp3.Properties.Resources.resources
+C:\Users\Daniel Fernandes\source\repos\TrabalhoFinalLp3\TrabalhoFinalLp3\obj\Debug\TrabalhoFinalLp3.csproj.GenerateResource.cache
+C:\Users\Daniel Fernandes\source\repos\TrabalhoFinalLp3\TrabalhoFinalLp3\obj\Debug\TrabalhoFinalLp3.exe
+C:\Users\Daniel Fernandes\source\repos\TrabalhoFinalLp3\TrabalhoFinalLp3\obj\Debug\TrabalhoFinalLp3.pdb
+C:\Users\Daniel Fernandes\source\repos\TrabalhoFinalLp3\TrabalhoFinalLp3\bin\Debug\Pokemon.mdf
+C:\Users\Daniel Fernandes\source\repos\TrabalhoFinalLp3\TrabalhoFinalLp3\bin\Debug\Pokemon_log.ldf
+C:\Users\joaov\OneDrive\Área de Trabalho\TrabalhoFinalLp3\bin\Debug\TrabalhoFinalLp3.exe.config
+C:\Users\joaov\OneDrive\Área de Trabalho\TrabalhoFinalLp3\bin\Debug\TrabalhoFinalLp3.exe
+C:\Users\joaov\OneDrive\Área de Trabalho\TrabalhoFinalLp3\bin\Debug\TrabalhoFinalLp3.pdb
+C:\Users\joaov\OneDrive\Área de Trabalho\TrabalhoFinalLp3\obj\Debug\TrabalhoFinalLp3.csprojAssemblyReference.cache
+C:\Users\joaov\OneDrive\Área de Trabalho\TrabalhoFinalLp3\obj\Debug\TrabalhoFinalLp3.Form1.resources
+C:\Users\joaov\OneDrive\Área de Trabalho\TrabalhoFinalLp3\obj\Debug\TrabalhoFinalLp3.Properties.Resources.resources
+C:\Users\joaov\OneDrive\Área de Trabalho\TrabalhoFinalLp3\obj\Debug\TrabalhoFinalLp3.csproj.GenerateResource.cache
+C:\Users\joaov\OneDrive\Área de Trabalho\TrabalhoFinalLp3\obj\Debug\TrabalhoFinalLp3.csproj.CoreCompileInputs.cache
+C:\Users\joaov\OneDrive\Área de Trabalho\TrabalhoFinalLp3\obj\Debug\TrabalhoFinalLp3.exe
+C:\Users\joaov\OneDrive\Área de Trabalho\TrabalhoFinalLp3\obj\Debug\TrabalhoFinalLp3.pdb
+C:\Users\joaov\OneDrive\Área de Trabalho\TrabalhoFinalLp3\bin\Debug\Projeto\BD\Pokemon.mdf
+C:\Users\joaov\OneDrive\Área de Trabalho\TrabalhoFinalLp3\bin\Debug\Projeto\BD\Pokemon_log.ldf
+C:\Users\Daniel Fernandes\Desktop\mECtRAB\TrabalhoFinalLp3\bin\Debug\Projeto\BD\Pokemon.mdf
+C:\Users\Daniel Fernandes\Desktop\mECtRAB\TrabalhoFinalLp3\bin\Debug\Projeto\BD\Pokemon_log.ldf
+C:\Users\Daniel Fernandes\Desktop\mECtRAB\TrabalhoFinalLp3\bin\Debug\TrabalhoFinalLp3.exe.config
+C:\Users\Daniel Fernandes\Desktop\mECtRAB\TrabalhoFinalLp3\bin\Debug\TrabalhoFinalLp3.exe
+C:\Users\Daniel Fernandes\Desktop\mECtRAB\TrabalhoFinalLp3\bin\Debug\TrabalhoFinalLp3.pdb
+C:\Users\Daniel Fernandes\Desktop\mECtRAB\TrabalhoFinalLp3\obj\Debug\TrabalhoFinalLp3.csprojAssemblyReference.cache
+C:\Users\Daniel Fernandes\Desktop\mECtRAB\TrabalhoFinalLp3\obj\Debug\TrabalhoFinalLp3.Form1.resources
+C:\Users\Daniel Fernandes\Desktop\mECtRAB\TrabalhoFinalLp3\obj\Debug\TrabalhoFinalLp3.Properties.Resources.resources
+C:\Users\Daniel Fernandes\Desktop\mECtRAB\TrabalhoFinalLp3\obj\Debug\TrabalhoFinalLp3.csproj.GenerateResource.cache
+C:\Users\Daniel Fernandes\Desktop\mECtRAB\TrabalhoFinalLp3\obj\Debug\TrabalhoFinalLp3.exe
+C:\Users\Daniel Fernandes\Desktop\mECtRAB\TrabalhoFinalLp3\obj\Debug\TrabalhoFinalLp3.pdb
+C:\Users\Daniel Fernandes\Desktop\mECtRAB\TrabalhoFinalLp3\bin\Debug\Interop.WMPLib.dll
+C:\Users\Daniel Fernandes\Desktop\mECtRAB\TrabalhoFinalLp3\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Daniel Fernandes\Desktop\mECtRAB\TrabalhoFinalLp3\obj\Debug\Interop.WMPLib.dll
+C:\Users\Daniel Fernandes\Desktop\mECtRAB\TrabalhoFinalLp3\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Daniel Fernandes\Desktop\mECtRAB\TrabalhoFinalLp3\obj\Debug\TrabalhoFinalLp3.csproj.ResolveComReference.cache
+C:\Users\Daniel Fernandes\Desktop\Programação\LPIII\mECtRAB\TrabalhoFinalLp3\bin\Debug\Projeto\BD\Pokemon.mdf
+C:\Users\Daniel Fernandes\Desktop\Programação\LPIII\mECtRAB\TrabalhoFinalLp3\bin\Debug\Projeto\BD\Pokemon_log.ldf
+C:\Users\Daniel Fernandes\Desktop\Programação\LPIII\mECtRAB\TrabalhoFinalLp3\bin\Debug\TrabalhoFinalLp3.exe.config
+C:\Users\Daniel Fernandes\Desktop\Programação\LPIII\mECtRAB\TrabalhoFinalLp3\bin\Debug\TrabalhoFinalLp3.exe
+C:\Users\Daniel Fernandes\Desktop\Programação\LPIII\mECtRAB\TrabalhoFinalLp3\bin\Debug\TrabalhoFinalLp3.pdb
+C:\Users\Daniel Fernandes\Desktop\Programação\LPIII\mECtRAB\TrabalhoFinalLp3\bin\Debug\Interop.WMPLib.dll
+C:\Users\Daniel Fernandes\Desktop\Programação\LPIII\mECtRAB\TrabalhoFinalLp3\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Daniel Fernandes\Desktop\Programação\LPIII\mECtRAB\TrabalhoFinalLp3\obj\Debug\TrabalhoFinalLp3.csprojAssemblyReference.cache
+C:\Users\Daniel Fernandes\Desktop\Programação\LPIII\mECtRAB\TrabalhoFinalLp3\obj\Debug\Interop.WMPLib.dll
+C:\Users\Daniel Fernandes\Desktop\Programação\LPIII\mECtRAB\TrabalhoFinalLp3\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Daniel Fernandes\Desktop\Programação\LPIII\mECtRAB\TrabalhoFinalLp3\obj\Debug\TrabalhoFinalLp3.csproj.ResolveComReference.cache
+C:\Users\Daniel Fernandes\Desktop\Programação\LPIII\mECtRAB\TrabalhoFinalLp3\obj\Debug\TrabalhoFinalLp3.Form1.resources
+C:\Users\Daniel Fernandes\Desktop\Programação\LPIII\mECtRAB\TrabalhoFinalLp3\obj\Debug\TrabalhoFinalLp3.Properties.Resources.resources
+C:\Users\Daniel Fernandes\Desktop\Programação\LPIII\mECtRAB\TrabalhoFinalLp3\obj\Debug\TrabalhoFinalLp3.csproj.GenerateResource.cache
+C:\Users\Daniel Fernandes\Desktop\Programação\LPIII\mECtRAB\TrabalhoFinalLp3\obj\Debug\TrabalhoFinalLp3.exe
+C:\Users\Daniel Fernandes\Desktop\Programação\LPIII\mECtRAB\TrabalhoFinalLp3\obj\Debug\TrabalhoFinalLp3.pdb

@@ -1,7 +1,5 @@
-# simulador batalha pokemon
-Tcc - Técnico Desenvolvimento de Sistemas
-
 <h1 align="center">
+    # simulador batalha pokemon
     <img src="poke1.jpeg" style="display: inline; text-align: center;">
     <img src="poke2.jpeg" style="display: inline; text-align: center;">
     <img src="poke3.jpeg" style="display: inline; text-align: center;">

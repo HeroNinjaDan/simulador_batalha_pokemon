@@ -23,5 +23,5 @@ A princípio a ideia do projeto era recriar todo o jogo, porém fomos achando li
 ## Como jogar 🎮
 - Baixe a pasta "TrabalhoFinalLp3"
 - Abra a pasta "bin/Debug"
-- Abra o executavel "TrabalhoFinalLp3.exe"
+- Abra o executável "TrabalhoFinalLp3.exe"
 - Divirta-se! 🐱‍🏍 

@@ -1,10 +1,10 @@
 # Simulador de Batalha Pokemon
 <h1 align="center">
-    <img src="poke1.jpeg" style="display: inline; text-align: center;">
-    <img src="poke2.jpeg" style="display: inline; text-align: center;">
-    <img src="poke3.jpeg" style="display: inline; text-align: center;">
-    <img src="poke4.jpeg" style="display: inline; text-align: center;">
-    <img src="poke5.jpeg" style="display: inline; text-align: center;">
+    <img src="imagens/poke1.jpeg" style="display: inline; text-align: center;">
+    <img src="imagens/poke2.jpeg" style="display: inline; text-align: center;">
+    <img src="imagens/poke3.jpeg" style="display: inline; text-align: center;">
+    <img src="imagens/poke4.jpeg" style="display: inline; text-align: center;">
+    <img src="imagens/poke5.jpeg" style="display: inline; text-align: center;">
 </h1>
 
 ## Sobre 📖

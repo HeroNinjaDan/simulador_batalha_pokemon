@@ -19,3 +19,9 @@ Você escolhe os pokemons, seus leveis e suas habilidades, após isso se inicia 
 
 ## Considerações pessoais ✨
 A princípio a ideia do projeto era recriar todo o jogo, porém fomos achando limitações na plataforma em que estávamos programando, por isso nos concentramos apenas nas batalhas. Foi bem desafiador terminar esse projeto no WindowsForm, porém o sentimento de que tinha valido a pena logo após de terminarmos foi maravilhoso. Saber como não se perder com tantas variáveis foi importante, se perdêssemos o rumo do código, tudo ia por água a baixo. No fim, adorei realizar esse trabalho e espero que eu possa refazer o jogo inteiro da próxima vez.
+
+## Como jogar 🎮
+- Baixe a pasta "TrabalhoFinalLp3"
+- Abra a pasta "bin/Debug"
+- Abra o executavel "TrabalhoFinalLp3.exe"
+- Divirta-se! 🐱‍🏍 

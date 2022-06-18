@@ -1,7 +1,13 @@
 # simulador batalha pokemon
 Tcc - Técnico Desenvolvimento de Sistemas
 
-
+<h1 align="center">
+    <img src="poke1.jpeg" style="display: inline; text-align: center;">
+    <img src="poke2.jpeg" style="display: inline; text-align: center;">
+    <img src="poke3.jpeg" style="display: inline; text-align: center;">
+    <img src="poke4.jpeg" style="display: inline; text-align: center;">
+    <img src="poke5.jpeg" style="display: inline; text-align: center;">
+</h1>
 
 ## Sobre 📖
 O projeto simula uma batalha pokemon no windowsforms do visual studio. Feito por mim e por meus amigos de escola, o projeto serviu para por em prática tudo o que aprendemos nesses três anos do ensino médio integrado com o curso técnico em desenvolvimento de sistemas no Colégio Pedro II, que todos nós cursávamos.
